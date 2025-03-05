@@ -1,0 +1,17 @@
+using System;
+
+class Program {
+    static void Main(string[] args) {
+        int x = x + 1;
+        int y = y + 1;
+        int z = x+y; //!
+
+        Console.WriteLine("Hello, World!");
+
+        int a = a + 1;
+        int b = b + 1;
+        int c = a + 1; //!!
+
+        Console.WriteLine(c);
+    }
+}

@@ -1,0 +1,7 @@
+int Increment(int value) {
+    return value + 1;
+}
+
+int x = x + 1;
+int y = y + 1;
+int z = z + 1;

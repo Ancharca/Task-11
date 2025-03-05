@@ -1,0 +1,8 @@
+for (int i = 0; i < 10; i++) {
+    for (int j = 0; j < 5; j++) {
+        int x = x + 1;
+        if (x > 5) {
+            int y = y + 1;
+        }
+    }
+}
